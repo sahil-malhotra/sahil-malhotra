@@ -46,12 +46,12 @@ Apache Kafka, Kafka Streams, KSQLDB, Airflow, Docker, Kubernetes, ETL, Elastic S
 ---
 I contribute to research and have papers and chapters published in Springer Series.
 
-I blog about Data Science at https://behindthescen.es
-
 My blogs, articles, and answers have garnered more than 350k views with an average of 75 upvotes per answer on Quora (the highest one being 900+ upvotes).
 
 My Blog about my Data Science Journey was viewed in 20+ countries and published in India's leading Analytics Magazine.
 
 I'm highly invested in learning and reading books about Personal Growth.
 
-Can speak English, Hindi and Dutch. 
+Can speak English, Hindi and Dutch.
+
+Know more about me at [sahilmalhotra.com](https://sahilmalhotra.com)
