@@ -41,4 +41,4 @@ I'm highly invested in learning about Personal Growth and Well-being.
 
 Can speak English, Hindi, and Dutch.
 
-Learn more about me at (sahilmalhotra.com)[https://sahilmalhotra.com]
+Learn more about me at [sahilmalhotra.com](https://sahilmalhotra.com)
