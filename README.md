@@ -15,7 +15,7 @@ I'm highly invested in Personal Growth and Well-being.
 
 I can speak English, Hindi, and Dutch.
 
-Medium Publications: https://blog.sahilmalhotra.com/
+Medium Publications: https://medium.sahilmalhotra.com/
 Hackernoon Blogs: https://hackernoon.com/u/sahilmalhotra
 
 More about me at sahilmalhotra.com
